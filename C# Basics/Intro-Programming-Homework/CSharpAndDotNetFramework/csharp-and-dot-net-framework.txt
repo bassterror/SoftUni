@@ -1,0 +1,3 @@
+Basicly C# is a programming language, and .NET Framework is an application framework library that
+C# is built on. There are numerous languages which are based on .NET Framework (VisualBasic, F#, 
+J#, IronRuby and many more).

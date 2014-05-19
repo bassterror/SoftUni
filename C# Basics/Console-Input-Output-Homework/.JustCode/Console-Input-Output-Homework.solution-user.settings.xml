@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="e79c5352-ba13-453e-b459-5466cf761940">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>FallingRocks/FallingRocks.cs</FileRelativePath>
+        <ProjectRelativePath>FallingRocks/FallingRocks.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>65221823843679323</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

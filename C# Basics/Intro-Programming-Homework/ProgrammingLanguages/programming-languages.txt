@@ -1,0 +1,29 @@
+Some of the most popular programming languages in the world are: C, C++, Java, PHP, Phyton.
+======================================="C"=============================================
+Its design provides constructs that map efficiently to typical machine instructions, 
+and therefore it has found lasting use in applications that had formerly been coded in 
+assembly language, most notably system software like the Unix computer operating system.
+
+======================================"C++"============================================
+As an efficient performance driven programming language it is used in systems software, 
+application software, device drivers, embedded software, high-performance server and 
+client applications, and entertainment software such as video games.
+
+====================================="Java"============================================
+Java is a computer programming language that is concurrent, class-based, object-oriented, 
+and specifically designed to have as few implementation dependencies as possible.It is intended 
+to let application developers "write once, run anywhere" (WORA), meaning that code that 
+runs on one platform does not need to be recompiled to run on another.
+
+====================================="PHP"=============================================
+PHP is a server-side scripting language designed for web development but also used as 
+a general-purpose programming language.
+
+==================================="Phyton"============================================
+Python is a widely used general-purpose, high-level programming language.The language 
+provides constructs intended to enable clear programs on both a small and large scale.
+
+==================================="Summary"===========================================
+C has directly or indirectly influenced many later languages such as C#, D, Go, Java, 
+JavaScript, Limbo, LPC, Perl, PHP, Python, and Unix's C Shell. 
+The most pervasive influence has been syntactical.

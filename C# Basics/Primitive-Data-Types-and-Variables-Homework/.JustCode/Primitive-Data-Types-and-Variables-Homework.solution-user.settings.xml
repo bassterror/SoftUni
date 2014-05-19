@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="88bba88e-a726-4d41-87f4-4afba150d009">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>PrintTheASCIITable/PrintTheASCIITable.cs</FileRelativePath>
+        <ProjectRelativePath>PrintTheASCIITable/PrintTheASCIITable.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>11810234234294039805</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>16951022964578930388</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

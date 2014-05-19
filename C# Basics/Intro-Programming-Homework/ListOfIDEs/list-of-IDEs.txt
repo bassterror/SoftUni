@@ -1,0 +1,38 @@
+Some of the most popular IDEs are: NetBeans, Eclipse, Codenvy, Delphi, Xcode, JDeveloper
+===================================="NetBeans"============================================
+NetBeans is an integrated development environment (IDE) for developing primarily with Java, 
+but also with other languages, in particular PHP, C/C++, and HTML5.[3] It is also an 
+application platform framework for Java desktop applications and others. The NetBeans IDE 
+is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms 
+supporting a compatible JVM.
+
+===================================="Eclipse"=============================================
+Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, 
+Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++,
+COBOL, Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, Ruby (including Ruby on Rails 
+framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages 
+for the software Mathematica.
+
+===================================="Codenvy"=============================================
+Codenvy is a SAAS developer environment, also known as a cloud Integrated Development Environment (IDE), 
+that allows developers to create hosted environments optimized for creating, editing, compiling, testing 
+and debugging applications authored in different programming languages. A SAAS developer environment has 
+many clients, and can be accessed directly from within a browser, through an Application Programming 
+Interface (API), or a traditional desktop IDE.
+
+===================================="Delphi"==============================================
+Delphi is an integrated development environment (IDE) for console, desktop graphical, web,
+and mobile applications. Delphi's compilers use their own Object Pascal dialect of Pascal 
+and generate native code for 32- and 64-bit Windows operating systems, as well as 32-bit Mac 
+OS X, iOS and Android.
+
+===================================="Xcode"===============================================
+Xcode is an integrated development environment (IDE) containing a suite of software development
+tools developed by Apple for developing software for OS X and iOS. First released in 2003, the 
+latest stable release is version 5.0 and is available via the Mac App Store free of charge for 
+Mac OS X Lion and OS X Mountain Lion users.
+
+===================================="JDeveloper"==========================================
+JDeveloper is a freeware IDE supplied by Oracle Corporation. It offers features for development 
+in Java, XML, SQL and PL/SQL, HTML, JavaScript, BPEL and PHP. JDeveloper covers the full development 
+lifecycle from design through coding, debugging, optimization and profiling to deploying.
