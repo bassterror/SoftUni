@@ -1,0 +1,8 @@
+1a. file explorer, shift + десен бутон + open new command prompt window here
+1b. cd <dir> (<dir> е директорията на *.java "проекта")
+
+2. set path=%path%;C:Program Files\Java\jdk1.8.0_05\bin
+
+3. javac SumTwoNumbers.java
+
+4. java SumTwoNumbers
