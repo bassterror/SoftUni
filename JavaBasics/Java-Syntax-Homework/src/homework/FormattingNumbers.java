@@ -1,8 +1,10 @@
+package homework;
 import java.util.Locale;
 import java.util.Scanner;
 
 public class FormattingNumbers {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.ROOT);
 		Scanner reader = new Scanner(System.in);

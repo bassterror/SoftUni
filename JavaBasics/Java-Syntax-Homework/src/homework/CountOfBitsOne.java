@@ -1,7 +1,9 @@
+package homework;
 import java.util.Scanner;
 
 public class CountOfBitsOne {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		Scanner reader = new Scanner(System.in);

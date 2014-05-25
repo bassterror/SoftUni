@@ -1,14 +1,16 @@
+package homework;
 import java.util.Scanner;
 
 public class SymmetricNumbersInRange {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		Scanner reader = new Scanner(System.in);
         while (true) {
         	System.out.print("Enter first: ");
-        	int start = input.nextInt();
+        	int start = reader.nextInt();
         	System.out.print("Enter last: ");
-            int end = input.nextInt();
+            int end = reader.nextInt();
             for(int number = start ; number<=end ; number++){
                     if(check(number)==true){
                             System.out.print(number);

@@ -1,9 +1,11 @@
+package homework;
 import java.util.Locale;
 import java.util.Scanner;
 
 
 public class TheSmallestOf3Numbers {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args){
 				
 		Locale.setDefault(Locale.ROOT);

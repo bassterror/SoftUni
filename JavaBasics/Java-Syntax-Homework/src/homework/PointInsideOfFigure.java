@@ -1,9 +1,11 @@
+package homework;
 import java.math.BigDecimal;
 import java.util.Locale;
 import java.util.Scanner;
 
 public class PointInsideOfFigure {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args){
 		
 		Locale.setDefault(Locale.ROOT);

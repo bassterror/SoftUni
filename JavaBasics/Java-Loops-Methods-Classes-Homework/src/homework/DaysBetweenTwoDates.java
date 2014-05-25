@@ -1,3 +1,4 @@
+package homework;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
@@ -5,6 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class DaysBetweenTwoDates {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
 		SimpleDateFormat myFormat = new SimpleDateFormat("dd-MM-yyyy");

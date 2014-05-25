@@ -1,12 +1,14 @@
+package homework;
 import java.util.Scanner;
 
 public class Generate3LetterWords {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		Scanner reader = new Scanner(System.in);
 		while (true) {
 			System.out.print("Enter charecter: ");
-			char[] charecter = input.next().toCharArray();
+			char[] charecter = reader.next().toCharArray();
 			for(int a = 0; a < charecter.length; a++){
                 for(int b = 0;b < charecter.length; b++){
                         for (int c = 0; c < charecter.length; c++) {
