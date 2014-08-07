@@ -1,0 +1,39 @@
+﻿body {
+    background:url('../images/background.jpg');
+    font-family:Calibri;
+    font-size:30px;
+}
+
+h1 {
+    color:#f4c266;
+}
+
+ul {
+    list-style-type:square;
+    color:#f4c266;
+    font-weight:bold;
+}
+
+li {
+    color:#f4c266;
+    font-weight:bold;
+}
+
+div {    
+    color:#faeecb;
+    border:1px solid #71685b;
+    background-color:rgba(128, 128, 128, 0.31);
+    margin-left:3%;
+    margin-right:5%;
+    margin-bottom:15px;
+    margin-top:15px;
+    font-size:20px;
+    font-weight:bold;
+    padding-left:5px;
+}
+
+span {
+    color:white;
+    font-weight:normal;
+    font-size:30px;
+}

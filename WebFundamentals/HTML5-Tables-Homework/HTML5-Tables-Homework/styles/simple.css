@@ -1,0 +1,16 @@
+﻿table {
+    width:400px;
+    font-family:Verdana;
+    border-color:aqua;
+    border:1px double;
+}
+
+th{
+    padding-bottom:20px;
+    text-align:left;
+    font-size:26px;
+}
+td{
+    padding:7px;
+    font-size:15px;
+}

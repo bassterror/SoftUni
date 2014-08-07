@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Flight Order</title>
+    <link href="styles/flight.css" rel="stylesheet" />
+</head>
+<body>
+    <form method="get" id="flightForm">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="5">
+                        <h2>Flight order</h2>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="3">From</td>
+                    <td colspan="2">To</td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <select name="from" class="dropdown">
+                            <option value="enter">enter a city</option>
+                            <option value="Kas">Kaspichan</option>
+                            <option value="Dup">Dupnica</option>
+                            <option value="Ch">Chirpan</option>
+                        </select>
+                    </td>
+                    <td colspan="2">
+                        <select name="to" class="dropdown">
+                            <option value="enter">enter a city</option>
+                            <option value="Kas">Kaspichan</option>
+                            <option value="Dup">Dupnica</option>
+                            <option value="Ch">Chirpan</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3"></td>
+                    <td colspan="2">
+                        <input type="checkbox" name="prefer">
+                        <label for="prefer">Prefer directs</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">Departure date</td>
+                    <td colspan="2">Time interval</td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <input type="date" name="departure">
+                    </td>
+                    <td>
+                        <input type="time" name="start">
+                    </td>
+                    <td>
+                        <input type="time" name="end">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">Return date</td>
+                    <td colspan="2">Time interval</td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <input type="date" name="return">
+                    </td>
+                    <td>
+                        <input type="time" name="start">
+                    </td>
+                    <td>
+                        <input type="time" name="end">
+                    </td>
+                </tr>
+                <tr>
+                    <td>12+</td>
+                    <td>2-12</td>
+                    <td>0-2</td>
+                    <td colspan="2">Choose class</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="number" name="12+">
+                    </td>
+                    <td>
+                        <input type="number" name="2-12">
+                    </td>
+                    <td>
+                        <input type="number" name="0-2">
+                    </td>
+                    <td colspan="2">
+                        <select name="class" class="dropdown">
+                            <option value="econ">Economy</option>
+                            <option value="bus">Bussines</option>
+                            <option value="fc">First class</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3"></td>
+                    <td colspan="2">
+                        <input type="submit" value="Search">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

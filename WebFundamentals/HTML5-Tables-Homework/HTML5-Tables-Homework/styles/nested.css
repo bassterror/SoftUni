@@ -1,0 +1,16 @@
+﻿table, th, td {
+    border: 1px double;
+}
+
+table {
+    border-spacing: 2px;
+    font-family:Verdana;
+}
+
+td {
+    padding: 10px;
+}
+
+#nest {
+    font-size: 56px
+}

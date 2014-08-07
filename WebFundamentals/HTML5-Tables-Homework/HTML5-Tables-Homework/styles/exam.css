@@ -1,0 +1,26 @@
+﻿table, td, th {
+    border: 1px double;
+    padding:3px;
+}
+
+table {
+    width: 400px;
+    font-family:Verdana;
+}
+
+table thead {
+    font-size: 20px;
+}
+
+table tbody{
+    font-size:16px;
+}
+
+#first{
+    text-align:center;
+}
+
+table tfoot {
+    text-align: right;
+    font-size:16px;
+}

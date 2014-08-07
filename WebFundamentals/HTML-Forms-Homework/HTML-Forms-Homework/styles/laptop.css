@@ -1,0 +1,53 @@
+﻿.subTitle {
+    font-family:'Trebuchet MS',sans-serif;
+    font-size:24px;
+}
+
+#laptops {
+    float: left;
+    display: inline-block;
+    margin:5px;
+}
+button {
+    width: 170px;
+    height: 210px;
+    border: solid 1px #d9eefa;
+    border-radius: 5px;
+    background-color: #fff;
+    text-align: left;
+    font-family:Arial;
+    margin:5px;
+}
+.price {
+    color: #fff;
+    background-color: #345;
+    float: right;
+    padding: 10px;
+    border-top-left-radius:5px;
+}
+
+
+#filters {
+    float:left;
+    width: 150px;
+    display: inline-block;
+    background-color: #f7fcff;
+    border: 1px solid #d8eef9;
+    padding: 5px;
+    font-family:Arial;
+}
+.name {
+    text-align:center;
+    font-size:14px;
+}
+.max {
+    float: right;
+    font-size:11px;
+}
+.min{
+    font-size:11px;
+    float:left;
+}
+input[type=range] {
+    width: 130px;
+}
