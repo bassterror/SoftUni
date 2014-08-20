@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Name>PHP_Forms</Name>
+    <ProjectGuid>7fe1d1f7-b7bf-45ec-a61b-9219bae35d51</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>PHP_Forms</RootNamespace>
+    <ProjectTypeGuids>{A0786B88-2ADB-4C21-ABE8-AA2D79766269}</ProjectTypeGuids>
+    <AssemblyName>PHP-Forms</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <IncludeDebugInformation>true</IncludeDebugInformation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <IncludeDebugInformation>false</IncludeDebugInformation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CalculateInterest.php" />
+    <Compile Include="constants.php" />
+    <Compile Include="CVGenerator.php" />
+    <Compile Include="CVResult.php" />
+    <Compile Include="HTMLTagsCounter.php" />
+    <Compile Include="MostFrequentTag.php" />
+    <Compile Include="PrintTags.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="scripts.js" />
+  </ItemGroup>
+</Project>
