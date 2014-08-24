@@ -7,6 +7,8 @@ Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP-Syntax", "PHP-Syntax\PH
 EndProject
 Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP-Forms", "PHP-Forms\PHP-Forms.phpproj", "{7FE1D1F7-B7BF-45EC-A61B-9219BAE35D51}"
 EndProject
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP-Flow-Control", "PHP-Flow-Control\PHP-Flow-Control.phpproj", "{2171F8D7-F018-447E-B14B-83F113DBA5D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7FE1D1F7-B7BF-45EC-A61B-9219BAE35D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FE1D1F7-B7BF-45EC-A61B-9219BAE35D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FE1D1F7-B7BF-45EC-A61B-9219BAE35D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
