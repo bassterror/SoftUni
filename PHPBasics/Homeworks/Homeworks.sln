@@ -9,6 +9,8 @@ Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP-Forms", "PHP-Forms\PHP-
 EndProject
 Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP-Flow-Control", "PHP-Flow-Control\PHP-Flow-Control.phpproj", "{2171F8D7-F018-447E-B14B-83F113DBA5D6}"
 EndProject
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP-Arrays-Strings-Objects", "PHP-Arrays-Strings-Objects\PHP-Arrays-Strings-Objects.phpproj", "{0C46A447-B0B7-4197-A0AB-DAABC227137D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2171F8D7-F018-447E-B14B-83F113DBA5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C46A447-B0B7-4197-A0AB-DAABC227137D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C46A447-B0B7-4197-A0AB-DAABC227137D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C46A447-B0B7-4197-A0AB-DAABC227137D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C46A447-B0B7-4197-A0AB-DAABC227137D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
