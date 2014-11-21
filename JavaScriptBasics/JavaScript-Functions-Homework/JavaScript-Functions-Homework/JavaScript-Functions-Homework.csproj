@@ -65,8 +65,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="biggerThanNeighbors.js" />
+    <Content Include="countOfDivs.js" />
+    <Content Include="largestSumOfDigits.js" />
     <Content Include="lastDigitOfNumber.js" />
+    <Content Include="nthDigitOfNumber.js" />
+    <Content Include="reverseWords.js" />
     <Content Include="Web.config" />
+    <Content Include="youngestPerson.js" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
