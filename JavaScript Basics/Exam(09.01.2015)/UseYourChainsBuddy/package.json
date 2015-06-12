@@ -1,0 +1,10 @@
+﻿{
+  "name": "UseYourChainsBuddy",
+  "version": "0.0.0",
+  "description": "UseYourChainsBuddy",
+  "main": "app.js",
+  "author": {
+    "name": "Мирослав Петров",
+    "email": ""
+  }
+}

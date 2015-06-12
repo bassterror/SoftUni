@@ -1,0 +1,10 @@
+﻿{
+  "name": "Parachute",
+  "version": "0.0.0",
+  "description": "Parachute",
+  "main": "app.js",
+  "author": {
+    "name": "Мирослав Петров",
+    "email": ""
+  }
+}
